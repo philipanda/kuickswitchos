@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Name": "KuickSwitchOs",
+        "Category": "System Information",
+        "Description": "Kuickly boot another os without changing the bootorder. A tiny GUI to efibootmgr --nextboot",
+        "Authors": [
+            {
+                "Email": "philipgoclever@gmail.com",
+                "Name": "Filip Gołaś"
+            }
+        ],
+        "Icon": "drive-multidisk-symbolic",
+        "Id": "com.github.philipanda.kuickswitchos",
+        "Version": "1"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
