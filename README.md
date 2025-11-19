@@ -24,3 +24,10 @@ Example:
 git clone https://github.com/philipanda/kuickswitchos $HOME/.local/share/plasma/plasmoids/com.github.philipanda.kuickswitchos
 ```
 
+## Uninstallation
+
+Remove the widget from your Plasma Panel and delete the files at your plasmoids directory:
+
+```shell
+rm -rf $HOME/.local/share/plasma/plasmoids/com.github.philipanda.kuickswitchos
+```
